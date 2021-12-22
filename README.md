@@ -1,8 +1,8 @@
-# Hola! 👋, I'm Mattia Ippoliti Reddy Gooty
-![logo](https://github.com/MattiaIppoliti/Software%20Developer.png)
+# Hola! 👋, I'm Mattia Ippoliti
+![logo](https://github.com/MattiaIppoliti/MattiaIppoliti/blob/main/Software%20Developer.png)
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mattiaippoliti/">LinkedIn</a> -
+ - <a href="https://www.linkedin.com/in/mattiaippoliti/">LinkedIn</a> -
 </p>
 
 I'm, a Software developer living in Turin, specialized in **Python**. I've been a **Python Programmer**, since **October 2016**. 
