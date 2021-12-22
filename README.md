@@ -12,7 +12,6 @@ I’m currently working as **Data Engineer** @ **Intesa San Paolo**. Apart from 
 Skills:
 - Python, C, Java
 - HTML, CSS, JavaScript & Bootstrap
-- Flask & Django (Python Frameworks)
 - MongoDB, SQLite3, PostgreSQL
 - Public Speaking
 
