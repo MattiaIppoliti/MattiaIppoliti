@@ -12,7 +12,7 @@ I’m currently working as **Data Engineer** @ **Intesa San Paolo**. Apart from 
 Skills:
 - Python, C, Java
 - HTML, CSS, JavaScript & Bootstrap
-- MongoDB, SQLite3, PostgreSQL
+- SQL
 - Public Speaking
 
 I like to:
