@@ -2,7 +2,9 @@
 ![logo](https://github.com/MattiaIppoliti/MattiaIppoliti/blob/main/Software%20Developer.png)
 
 <p align="center">
- - <a href="https://www.linkedin.com/in/mattiaippoliti/">LinkedIn</a> -
+ - <a href="https://www.linkedin.com/in/mattiaippoliti/" targer=“_blank”>LinkedIn</a> -
+ - <a href="https://mattiaippoliti.github.io/MattiaIppoliti/" targer=“_blank”>Web-site</a> -
+ - <a href="https://mattiaippoliti.github.io/article/" targer=“_blank”>Blog</a> -
 </p>
 
 I'm, a Software developer living in Turin, specialized in **Python**. I've been a **Python Programmer**, since **October 2016**. 
@@ -31,3 +33,5 @@ I like to:
 
 ### Find me around the web 🌎 :
 - Social Networking [LinkedIn](https://www.linkedin.com/in/MattiaIppoliti/)
+- Personal Website [Website](https://mattiaippoliti.github.io/MattiaIppoliti/)
+- Personal Blog [blog](https://mattiaippoliti.github.io/article//)
