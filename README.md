@@ -7,7 +7,7 @@
  <a href="https://mattiaippoliti.github.io/article/" target=“_blank”>Blog</a> -
 </p>
 
-I'm, a Software developer living in Turin, specialized in **Python**. I've been a **Python Programmer**, since **October 2016**. 
+I'm a Software developer living in Turin, specialized in **Python**. I've been a **Python Programmer**, since **October 2016**. 
 
 I’m currently working as **Data Engineer** @ **Intesa San Paolo**. Apart from my full time work I'm a graduated student with a Master Degree in Computer Science and Automation Engineering. I consider myself a very resolute person with a strong sense of responsibility, striving for perfection and ready to give my best in every circumstance by combining skills, knowledge and passion. Moreover my studies allowed myself to acquire a form of thought based on the continuous search for improvement both in work and in myself. I feel a strong attraction towards those challenges that require solid intellectual or designing skills and a strong practical sense.
 
