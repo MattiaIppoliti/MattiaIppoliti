@@ -1,9 +1,4 @@
 # Hola! 👋, I'm Mattia Ippoliti
-<p align="center">
- - <a href="https://www.linkedin.com/in/mattiaippoliti/" target=“_blank”>LinkedIn</a> -
- <a href="https://mattiaippoliti.github.io/MattiaIppoliti/" target=“_blank”>Web-site</a> -
- <a href="https://mattiaippoliti.github.io/article/" target=“_blank”>Blog</a> -
-</p>
 
 I'm a Software developer living in Turin, specialized in **Python**. I've been a **Python Programmer**, since **October 2016**. 
 
@@ -21,11 +16,14 @@ I like to:
 - push my limits in competitive programming
 - help the community around me by sharing my knowledge
 
+<p align="center">
+ - <a href="https://www.linkedin.com/in/mattiaippoliti/" target=“_blank”>LinkedIn</a> -
+ <a href="https://mattiaippoliti.github.io/MattiaIppoliti/" target=“_blank”>Web-site</a> -
+ <a href="https://mattiaippoliti.github.io/article/" target=“_blank”>Blog</a> -
+</p>
 
-<img align="center" src="<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MattiaIppoliti" alt="Mattia's github stats"/>
-
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MattiaIppoliti&hide=issues&count_private=true&" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MattiaIppoliti" alt="Mattia's github stats"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=MattiaIppoliti&hide=issues&count_private=true&" />
 
 
 ### Find me around the web 🌎 :
