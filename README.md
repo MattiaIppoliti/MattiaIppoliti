@@ -22,11 +22,10 @@ I like to:
 - help the community around me by sharing my knowledge
 
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MattiaIppoliti&title_color=fff&text_color=9f9f9f&bg_color=151515&hide=jupyter%20notebook" alt="Mattia's github stats" />
+<img align="center" src="<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MattiaIppoliti" alt="Mattia's github stats"/>
 
 
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MattiaIppoliti&hide=issues&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&line_height=40" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MattiaIppoliti&hide=issues&count_private=true&" />
 
 
 ### Find me around the web 🌎 :
