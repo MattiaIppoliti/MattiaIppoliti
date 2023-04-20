@@ -1,6 +1,4 @@
 # Hola! 👋, I'm Mattia Ippoliti
-![logo](https://github.com/MattiaIppoliti/MattiaIppoliti/blob/main/Software%20Developer.png)
-
 <p align="center">
  - <a href="https://www.linkedin.com/in/mattiaippoliti/" target=“_blank”>LinkedIn</a> -
  <a href="https://mattiaippoliti.github.io/MattiaIppoliti/" target=“_blank”>Web-site</a> -
