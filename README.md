@@ -2,7 +2,7 @@
 
 I'm a Software developer living in Turin, specialized in **Python**. I've been a **Python Programmer**, since **October 2016**. 
 
-I’m currently working as **Data Engineer** @ **Intesa San Paolo** and actively persuing a II Level Master in Quantum Computing. Apart from my full time work I'm a graduated student with a Master Degree in Computer Science and Automation Engineering. I feel a strong attraction towards those challenges that require solid intellectual or designing skills and a strong practical sense.
+I’m currently working as **Software Engineer** @ **Intesa SanPaolo** and actively persuing a II Level Master in Quantum Computing. Apart from my full time work I hold a II Level Master in Quantum Computing and a Master Degree in Computer Science and Automation Engineering. I feel a strong attraction towards those challenges that require solid intellectual or designing skills and a strong practical sense.
 
 Skills:
 - Python, C, Java
