@@ -13,7 +13,7 @@ Btw, if you're a developer or a team trying to showcase your projects to a bigge
 
 <div align="center">
 <picture>
-  <img width=400 src="https://cdn.ciaobang.com/image/work/portfolio-1.png" />
+  <img width=1200 src="https://cdn.ciaobang.com/image/work/portfolio-1.png" />
 </picture>
 
 </div>  &nbsp;
