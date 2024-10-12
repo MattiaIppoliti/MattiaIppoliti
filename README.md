@@ -10,3 +10,20 @@ Btw, if you're a developer or a team trying to showcase your projects to a bigge
 - Social Networking: [LinkedIn](https://www.linkedin.com/in/MattiaIppoliti/)
 - Personal Website: [Website](https://mattiaippoliti.github.io/MattiaIppoliti/)
 - Personal Blog: [blog](https://mattiaippoliti.github.io/article/)
+
+<div align="center">
+<picture>
+  <source
+    srcset="[https://cdn.ciaobang.com/image/ciao-placeholder.png](https://cdn.ciaobang.com/image/work/portfolio-1.png)"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="[https://cdn.ciaobang.com/image/ciao-placeholder-dark.png](https://cdn.ciaobang.com/image/work/portfolio-1.png)"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img width=400 src="[https://cdn.ciaobang.com/image/ciao-placeholder.png](https://cdn.ciaobang.com/image/work/portfolio-1.png)" />
+</picture>
+
+</div>  &nbsp;
+
+<div align="center">
