@@ -8,8 +8,8 @@ Btw, if you're a developer or a team trying to showcase your projects to a bigge
 
 ### Find me around the web 🌎 :
 - Social Networking: [LinkedIn](https://www.linkedin.com/in/MattiaIppoliti/)
-- Personal Website: [Website](https://mattiaippoliti.github.io/MattiaIppoliti/)
-- Personal Blog: [blog](https://mattiaippoliti.github.io/article/)
+- Personal Website: [Website](https://mattiaippoliti.pages.dev/)
+- Personal Blog: [blog](https://medium.com/@mattiaippoliti)
 
 <div align="center">
 <picture>
