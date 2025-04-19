@@ -18,8 +18,6 @@ Btw, if you're a developer or a team trying to showcase your projects to a bigge
 
 </div>  &nbsp;
 
-<div align="center">
-
 ```json
    const mattia = {
     current_work: "ISP",
