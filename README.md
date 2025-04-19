@@ -18,7 +18,7 @@ Btw, if you're a developer or a team trying to showcase your projects to a bigge
 
 </div>  &nbsp;
 
-```json
+```js
    const mattia = {
     current_work: "ISP",
     askMeAbout: ["Ai", "App dev", "Web dev", "Tech"],
