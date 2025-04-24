@@ -11,22 +11,22 @@ Btw, if you're a developer or a team trying to showcase your projects to a bigge
 - Personal Website: [Website](https://mattiaippoliti.pages.dev/)
 
 ```js
-   const mattia = {
-    current_work: "Isp",
-    askMeAbout: ["Ai", "App dev", "Web dev", "Tech"],
-    languages: ["Python", "Sql", "Bash Scripting", "Html", "Css", "JavaScript", "Typescript", "C/C++"],
-    technologies: {
-        backEnd: {
-           python: ["Flask", "Fastapi", "Pandas", "LangChain", "NumPy", "Matplotlib", "Scikit-Learn", "StatsModels", "SciPy", "Py-Torch", "XGBoost", "PySpark", "Qiskit"],
-           javascript: ["Node.js", "Google Cloud Functions", "Azure Functions"]
-        },
-        frontEnd: ["React", "Next.js"],
-        mobileApp: ["Swift"],
-        database: ["Mongo","MySql", "PostgreeSQL", "SQL Server", "BigQuery"],  
-        devOps: ["Docker", "Openshift", "Jenkins", "Splunk", "Grafana", "SonarQube"],
-        bi: ["Tableau", "Qlik", "PowerBI"],
-    },
-    architecture: ["Serverless Architecture", "Microservices", "Event-driven", "Single page applications"],
+const mattia = {
+ current_work: "Isp",
+ askMeAbout: ["Ai", "App dev", "Web dev", "Tech"],
+ languages: ["Python", "Sql", "Bash Scripting", "Html", "Css", "JavaScript", "Typescript", "C/C++"],
+ technologies: {
+     backEnd: {
+        python: ["Flask", "Fastapi", "Pandas", "LangChain", "NumPy", "Matplotlib", "Scikit-Learn", "StatsModels", "SciPy", "Py-Torch", "XGBoost", "PySpark", "Qiskit"],
+        javascript: ["Node.js", "Google Cloud Functions", "Azure Functions"]
+     },
+     frontEnd: ["React", "Next.js"],
+     mobileApp: ["Swift"],
+     database: ["Mongo","MySql", "PostgreeSQL", "SQL Server", "BigQuery"],  
+     devOps: ["Docker", "Openshift", "Jenkins", "Splunk", "Grafana", "SonarQube"],
+     bi: ["Tableau", "Qlik", "PowerBI"],
+ },
+ architecture: ["Serverless Architecture", "Microservices", "Event-driven", "Single page applications"],
 }
 ```
 
