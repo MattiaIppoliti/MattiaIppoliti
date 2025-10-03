@@ -1,8 +1,6 @@
 # Ciao! 👋, I'm Mattia Ippoliti
 
-I'm a Software Engineer living in Turin! 🕌 I've been a **Programmer**, since **October 2016**.
-
-Currently working as **Solutions Architect** @ **Intesa Sanpaolo**, I hold a II Level Master in Quantum Computing and a Master Degree in Computer Science. I’m curious about how we can support better interactions with computers and data, and be more responsible stewards of technology. In this era of my life, I’m working towards being someone who is unabashedly excited and curious about the world.
+Currently working as **Chief AI Officer** @ **Luiss**, I hold a II Level Master in Quantum Computing and a Master Degree in Computer Science. I’m curious about how we can support better interactions with computers and data, and be more responsible stewards of technology. In this era of my life, I’m working towards being someone who is unabashedly excited and curious about the world.
 
 Btw, if you're a developer or a team trying to showcase your projects to a bigger audience, try to take a look at [Ciao!](https://ciaobang.com).
 
