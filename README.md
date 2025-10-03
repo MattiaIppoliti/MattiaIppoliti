@@ -10,8 +10,8 @@ Btw, if you're a developer or a team trying to showcase your projects to a bigge
 
 ```js
 const mattia = {
- current_work: "Isp",
- askMeAbout: ["Ai", "App dev", "Web dev", "Tech"],
+ current_work: "Luiss",
+ askMeAbout: ["Artificial Intelligence", "App dev", "Web dev", "Tech"],
  languages: ["Python", "Sql", "Bash Scripting", "Html", "Css", "JavaScript", "Typescript", "C/C++"],
  technologies: {
      backEnd: {
